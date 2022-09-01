@@ -4,4 +4,4 @@ NPM     : 2106701210
 
 Kelas   : C
 
-Hobi    : Nonton film
+Hobi    : Tidur
